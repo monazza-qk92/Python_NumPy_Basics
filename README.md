@@ -34,6 +34,7 @@ To navigate the new 2D, we need to specify the position of each element in the h
 ## Mean of each Array
 We can also find average of each array as following:
 avg_study = student_data[0].mean()
+
 avg_grade = student_data[1].mean()
 
 ## Introduction to Pandas
