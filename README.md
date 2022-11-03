@@ -1,4 +1,4 @@
-# Python_NumPy_Basics
+#  NumPy Basics and Introduction to Pandas
 
 The role of a data scientist primarily involves exploring and analyzing data. The results of an analysis might form the basis of a report or a machine learning model, but it all begins with data, with Python being the most popular programming language for data scientists.
 
